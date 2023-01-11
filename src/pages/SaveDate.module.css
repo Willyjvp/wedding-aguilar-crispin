@@ -3,7 +3,7 @@
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	height: 100vh;
+	height: 100%;
 }
 
 .backgroundContainer {
@@ -12,7 +12,7 @@
     background-repeat: no-repeat;
     background-size: contain;
     width: 100vw;
-    height: 100vh;
+    height: 100%;
     margin-left: 24vw;
     position: fixed;
     z-index: 0;
