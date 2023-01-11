@@ -8,7 +8,7 @@
 
 .backgroundContainer {
 	background-image: url('../../public/flower2.png');
-	background-position: top;
+	background-position: fixed;
 	background-size: contain;
 	background-repeat: no-repeat;
     width: 100vw;
