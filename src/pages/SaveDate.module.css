@@ -8,22 +8,23 @@
 
 .backgroundContainer {
 	background-image: url('../../public/flower2.png');
-	background-position: fixed;
-	background-size: contain;
-	background-repeat: no-repeat;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: contain;
     width: 100vw;
     height: 100vh;
+    margin-left: 24vw;
     position: fixed;
     z-index: 0;
-    margin-left: 24vw;
 }
 
 .dateText {
 	background-image: url('../../public/TextDate2.png');
-	height: 50vh;
-	width: 50vw;
-	margin: 0 auto;
-	background-position: center;
-	background-size: contain;
-	background-repeat: no-repeat;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 60%;
+    width: 60%;
+    margin: 0 auto;
+    z-index: 2;
 }
